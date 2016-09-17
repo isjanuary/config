@@ -1,0 +1,7 @@
+[user]
+	name = joey xu
+	email = is_january@sina.com
+[color]
+	ui = true
+[core]
+	editor = vim
