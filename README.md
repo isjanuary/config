@@ -1,1 +1,1 @@
-# config files for common tools and editor
+## config files for common tools and editors
