@@ -1,7 +1,12 @@
 [user]
-	name = joey xu
-	email = is_january@sina.com
+    name = joey xu
+    email = is_january@sina.com
 [color]
-	ui = true
+    ui = true
 [core]
-	editor = vim
+    editor = vim
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    st = status
