@@ -7,5 +7,3 @@
 * how to customize some components to make them navigate to my own page
 
 ### angular
-  
-### update node
