@@ -7,3 +7,6 @@
 * how to customize some components to make them navigate to my own page
 
 ### angular
+
+### qiwu learning
+[issue #181](http://old.75team.com/weekly/issue181.html)
