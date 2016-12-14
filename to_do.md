@@ -12,3 +12,5 @@
 [issue #181](http://old.75team.com/weekly/issue181.html)
 
 ### redux and setTimeout
+
+### http://www.zsoltnagy.eu/
