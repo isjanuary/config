@@ -3,6 +3,8 @@
   * one is external page/url, which is the code outside
   * the rest routers are (under the same domain/path under the same location)
   * redux
+* use history modules instead of react-router
+  * [You might not need React Router](https://medium.freecodecamp.com/you-might-not-need-react-router-38673620f3d#.97f1z9zi9)
 
 ### firewall-cmd vs iptables under RHEL7-like unix
 http://www.rhce.cc/?p=1194
