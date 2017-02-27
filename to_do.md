@@ -25,3 +25,9 @@ http://www.rhce.cc/?p=1194
 ### redux and setTimeout
 
 ### http://www.zsoltnagy.eu/
+
+### css & javascript
+[regExp: remove spaces between two chars](http://stackoverflow.com/questions/12582164/how-to-remove-a-substring-between-two-specific-characters)
+[flexbox set distance](http://stackoverflow.com/questions/20626685/better-way-to-set-distance-between-flexbox-items)
+[flexbox css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[transform resizing](http://stackoverflow.com/questions/10858523/css-transform-with-element-resizing)
