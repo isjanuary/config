@@ -6,6 +6,7 @@ set expandtab
 set shiftwidth=2
 set tabstop=4
 set hlsearch
+set noswapfile
 set laststatus=2
 set statusline+=%F
 let g:ycm_global_ycm_extra_conf = "~/Templates/.ycm_extra_conf.py"
